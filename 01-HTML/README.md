@@ -22,7 +22,7 @@ Task-01-Hello-World/
 
 ## 📸 Output
 
-![Hello World HTML](screenshot.png)
+![Task 01 Screenshot](screenshot.png)
 
 ## 🎯 Learning Outcome
 
