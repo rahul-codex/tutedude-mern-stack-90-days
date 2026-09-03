@@ -51,7 +51,7 @@ The course also includes project-based learning and practical assignments.
 ### 🌐 HTML
 
 * [x] Task 01 – Hello World HTML
-* [ ] Task 02 – HTML
+* [x] Task 02 – HTML
 
 ### 🎨 CSS
 
