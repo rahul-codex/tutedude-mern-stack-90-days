@@ -46,9 +46,9 @@ Task-02-HTML/
 
 ## 📸 Output
 
-![Laundry Wallah / Laundry Mart](Screenshot 2026-09-04 170657.png
+![Laundry Wallah / Laundry Mart](screenshot1.png
 )
-![Laundry Wallah / Laundry Mart](Screenshot 2026-09-04 170710.png)
+![Laundry Wallah / Laundry Mart](screenshot2.png)
 
 ## 🎯 Learning Outcome
 
