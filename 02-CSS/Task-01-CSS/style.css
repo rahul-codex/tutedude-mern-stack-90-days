@@ -1,0 +1,47 @@
+/* Step 3: Body background */
+
+body {
+    background-color: orange;
+} 
+
+/* Step 5: All elements with class="head" */
+.head {
+    color: darkblue;
+}
+
+/* Step 6: Second heading background */
+#bglime {
+    background-color: lime;
+}
+
+/* Step 7: Second heading text color */
+#bglime {
+    color: red;
+}
+
+/* Step 8: All paragraphs */
+p {
+    color: white;
+}
+
+/* Step 9: Second paragraph */
+#para {
+    color: green;
+}
+
+/* Step 10: Paragraph text inside second paragraph */
+#para span {
+    color: black;
+    font-size: 24px;
+}
+
+/* Lists */
+ul,
+ol {
+    color: white;
+}
+
+/* Style "here" without id/class/inline CSS */
+li::first-letter {
+    font-weight: bold;
+}
